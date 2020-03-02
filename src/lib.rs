@@ -10,7 +10,7 @@
 //!
 //! ```toml
 //! [dependencies]
-//! min_binary_heap = { git = "https://github.com/MrKonstantinT/min-binary-heap" }
+//! min_binary_heap = { git = "https://github.com/konstantindt/min-binary-heap" }
 //! ```
 //!
 //! and the following to your crate root:

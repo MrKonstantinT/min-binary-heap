@@ -3,7 +3,7 @@
 
 The library provides a (binary) min-heap data structure that currently has some of the functionality required to create a min-priority queue of types that form total order.
 
-[![Build Status](https://travis-ci.org/MrKonstantinT/min-binary-heap.svg?branch=master)](https://travis-ci.org/MrKonstantinT/min-binary-heap)
+[![Build Status](https://travis-ci.org/konstantindt/min-binary-heap.svg?branch=master)](https://travis-ci.org/konstantindt/min-binary-heap)
 
 ## Documentation
 
@@ -25,7 +25,7 @@ Add this entry under `Cargo.toml` `dependencies` section name:
 
 ```toml
 [dependencies]
-min_binary_heap = { git = "https://github.com/MrKonstantinT/min-binary-heap" }
+min_binary_heap = { git = "https://github.com/konstantindt/min-binary-heap" }
 ```
 
 and the following to your crate root:
