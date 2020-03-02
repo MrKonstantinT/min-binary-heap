@@ -16,7 +16,7 @@ $ cargo doc
 and then open the following file with a web browser:
 
 ```
-target/doc/min_binary_heap/index.html
+[crate root]/target/doc/min_binary_heap/index.html
 ```
 
 ## Usage
